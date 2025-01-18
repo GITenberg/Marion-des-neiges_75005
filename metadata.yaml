@@ -1,0 +1,27 @@
+_repo: Marion-des-neiges_75005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martet, Jean
+    gutenberg_agent_id: '57768'
+    url: http://www.gutenberg.org/2009/agents/57768
+description: ''
+gutenberg_issued: '2024-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75005'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.585285
+pgterms:marc905: 20240316144429martet
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bAlbin Michel, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Marion des neiges
+url: http://www.gutenberg.org/ebooks/75005
