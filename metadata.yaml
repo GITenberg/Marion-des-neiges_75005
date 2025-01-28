@@ -1,11 +1,16 @@
 _repo: Marion-des-neiges_75005
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75005-h/images/cover.jpg
 creator:
   author:
     agent_name: Martet, Jean
     gutenberg_agent_id: '57768'
     url: http://www.gutenberg.org/2009/agents/57768
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75005#Marion-des-neiges
 gutenberg_issued: '2024-12-31'
 gutenberg_type: Text
 identifiers:
